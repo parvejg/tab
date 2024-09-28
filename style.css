@@ -60,6 +60,9 @@ span {
     font-family: sans-serif;
     border-radius: 12px;
   }
+  .container{
+   width: 100%;
+  }
   .tab {
     border-top: 1px solid black;
     width: 100%;
