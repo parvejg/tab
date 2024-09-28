@@ -73,3 +73,6 @@ span {
     font-size: x-large;
   }
 }
+.tab:active, .active{
+   color: darkslategray;
+}
